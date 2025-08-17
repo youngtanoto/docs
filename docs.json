@@ -9,17 +9,13 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "anchors": [
       {
-        "tab": "Plan",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          }
+        "anchor": "Plan",
+        "icon": "calendar-days",
+        "pages": [
+          "index",
+          "quickstart"
         ]
       }
     ]
