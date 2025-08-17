@@ -14,7 +14,7 @@
         "tab": "Plan",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "",
             "pages": [
               "index",
               "quickstart"
