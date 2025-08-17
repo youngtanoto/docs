@@ -8,16 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "anchors": [
-      {
-        "anchor": "Plan",
-        "icon": "calendar-days",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ]
-  }
+  "navigation": [
+    {
+      "group": "Getting started",
+      "pages": [
+        "index",
+        "quickstart"
+      ]
+    }
+  ]
 }
